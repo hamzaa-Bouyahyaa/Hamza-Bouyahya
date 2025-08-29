@@ -118,9 +118,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=hamzabouyahya&show_icons=true&theme=tokyonight" alt="GitHub Stats" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=hamzabouyahya&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
-
----
-
-[![GitHub activity graph](https://github-readme-activity-graph.vercel.app/graph?username=hamzabouyahya&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=hamzabouyahya&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
