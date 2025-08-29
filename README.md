@@ -74,7 +74,7 @@
 
 ---
 
-### [⚡ GetIt]  
+### ⚡ GetIt  
 - Online **real-time bidding platform** using **React + Redux + WebSocket**.  
 - Supports seamless and interactive auctions.  
 
